@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="19" height="25" viewBox="0 0 19 25">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #fff;
+            }
+        </style>
+    </defs>
+    <title>icon tra cuu don hang</title>
+    <path class="cls-1" d="M2.4954,10.5081l5.8853,3.5312v5.6361L2.4954,16.1442V10.5081m-.75-1.3246v7.3853L9.1307,21V13.6147L1.7454,9.1835Z" />
+    <polygon class="cls-1" points="9.5 12.89 2.115 8.445 9.5 4 16.885 8.445 9.5 12.89" />
+    <path class="cls-1" d="M9.8693,13.6147V21l7.3853-4.4312V9.1835ZM15.7775,15.25l-4.4312,2.77v-.87l4.4312-2.77Zm0-2.2155-4.4312,2.7694v-.87l4.4312-2.77Z" />
+</svg>
